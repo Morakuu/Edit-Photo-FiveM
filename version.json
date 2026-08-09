@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "2.0.5",
-    "changelog":  "Wersja v2.0.5 - Edit Photo FiveM:\nWersja v2.0.5: Przepisany od zera Patcher - niezawodne pobieranie aktualizacji z GitHuba, poprawna sciezka folderu aplikacji, pelna obsluga bledow.",
+    "latestVersion":  "2.0.6",
+    "changelog":  "Wersja v2.0.6 - Edit Photo FiveM:\nWersja v2.0.6: Panel Admina dostepny wylacznie dla uzytkownikow z ranga nadc (ID: 1535229019774255201). Wlasciciel Suslowatyy zachowuje pelny dostep.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
