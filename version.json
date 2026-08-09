@@ -1,6 +1,6 @@
 {
     "latestVersion":  "3.0.0",
-    "changelog":  "Wersja v3.0.0 - Edit Photo FiveM:\nWersja v3.0.0: Masywna przebudowa silnika - edytor to teraz niezalezna aplikacja okienkowa WinForms korzystajaca z natywnego silnika WebView2. Rozwiazuje to problem pamieci podrecznej oraz zaleznosci od przegladarki Edge.",
+    "changelog":  "Wersja v3.0.0 - Edit Photo FiveM:\nWersja v3.0.0: Przejscie na natywne okno WebView2 (WinForms). Aplikacja jest w pelni samowystarczalna i niezalezna od przegladarki Edge.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
