@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "3.0.1",
-    "changelog":  "Wersja v3.0.1 - Edit Photo FiveM:\nWersja v3.0.1: Naprawiony błąd braku WebView2Loader.dll - dolaczono plik bezpośrednio do glownego katalogu oraz podkatalogów runtimes.",
+    "latestVersion":  "3.0.2",
+    "changelog":  "Wersja v3.0.2 - Edit Photo FiveM:\nWersja v3.0.2: Zmiana nazwy w interfejsie z Gemini AI na Editor 2.0.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
