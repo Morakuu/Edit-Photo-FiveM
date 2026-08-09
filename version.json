@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "2.0.7",
-    "changelog":  "Wersja v2.0.7 - Edit Photo FiveM:\nWersja v2.0.7: Naprawiony Patcher - pobieranie dziala na watku w tle, pasek postepu aktualizuje sie plynnie, widoczny postep pobierania w KB.",
+    "latestVersion":  "2.0.8",
+    "changelog":  "Wersja v2.0.8 - Edit Photo FiveM:\nWersja v2.0.8: Patcher bez wzmianki o serwerze aktualizacji w UI. Plynny pasek postepu podczas pobierania.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
