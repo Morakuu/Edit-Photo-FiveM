@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "3.0.3",
-    "changelog":  "Wersja v3.0.3 - Edit Photo FiveM:\nWersja v3.0.3: Rozszerzono liste grafik o presety NaturalVision Cinematic, GTA V Redux 2.0, GraphicV Golden Hour, PRSA Film Look 35mm oraz ReShade RTGI Path Tracing.",
+    "latestVersion":  "3.0.4",
+    "changelog":  "Wersja v3.0.4 - Edit Photo FiveM:\nWersja v3.0.4: Przejscie Patchera na natywne lacze GitHub API (zamiast powolnego CDN Fastly). Błyskawiczna instalacja nowych wersji bez opoznien serwerowych.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
