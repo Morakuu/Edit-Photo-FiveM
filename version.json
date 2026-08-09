@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "2.0.8",
-    "changelog":  "Wersja v2.0.8 - Edit Photo FiveM:\nWersja v2.0.8: Patcher bez wzmianki o serwerze aktualizacji w UI. Plynny pasek postepu podczas pobierania.",
+    "latestVersion":  "2.0.9",
+    "changelog":  "Wersja v2.0.9 - Edit Photo FiveM:\nWersja v2.0.9: Testowa aktualizacja w celu weryfikacji dzialania Patchera u uzytkownika.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
