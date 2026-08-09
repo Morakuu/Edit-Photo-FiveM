@@ -1,6 +1,6 @@
 {
     "latestVersion":  "2.0.5",
-    "changelog":  "Wersja v2.0.5 - Edit Photo FiveM:\nWersja v2.0.5: Usunięto przycisk Patcher z nagłówka – zastąpiony statyczną etykietą z numerem wersji aplikacji.",
+    "changelog":  "Wersja v2.0.5 - Edit Photo FiveM:\nWersja v2.0.5: Przepisany od zera Patcher - niezawodne pobieranie aktualizacji z GitHuba, poprawna sciezka folderu aplikacji, pelna obsluga bledow.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
