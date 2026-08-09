@@ -1,6 +1,6 @@
 {
     "latestVersion":  "2.0.3",
-    "changelog":  "Wersja v2.0.3 - Edit Photo FiveM:\nWersja v2.0.3: Pełna weryfikacja automatycznego rozpakowywania z surowego serwera GitHub.",
+    "changelog":  "Wersja v2.0.3 - Edit Photo FiveM:\nWersja v2.0.3: Pełne wydanie z Patcherem sprawdzającym i instalującym z GitHuba.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
