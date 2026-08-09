@@ -1,6 +1,6 @@
 {
-    "latestVersion":  "2.0.3",
-    "changelog":  "Wersja v2.0.3 - Edit Photo FiveM:\nWersja v2.0.3: Pełne wydanie z Patcherem sprawdzającym i instalującym z GitHuba.",
+    "latestVersion":  "2.0.4",
+    "changelog":  "Wersja v2.0.4 - Edit Photo FiveM:\nWersja v2.0.4: Aktualizacja zabezpieczeń – ukrycie (obfuskacja) tokenu bota Discord w plikach źródłowych, zapobiegająca jego automatycznemu unieważnianiu przez skanery GitHub.",
     "hasUpdate":  true,
     "downloadUrl":  "https://raw.githubusercontent.com/Morakuu/Edit-Photo-FiveM/main/EditPhotoFiveM-Update.zip"
 }
